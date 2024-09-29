@@ -1,4 +1,4 @@
-# Online-Kaufen AWS Deployment
+# AWS Deployment Scripts
 
 This repository contains a set of JavaScript scripts for deploying and managing the "Online-Kaufen" application on AWS. The application is packaged as a WAR file and deployed on a Tomcat 8 server.
 
